@@ -4,8 +4,8 @@
 
 <p align="center"><b>ARHAM ANSARI</b> · Software Developer &amp; Cloud Enthusiast<br/><sub>SMART Conference — M.H. Saboo Siddik College of Engineering, Mumbai — Research Paper Author &amp; Presenter (2025)</sub></p>
 
-<p align="center"><a href="https://github.com/ansariarham1">GitHub</a> · <a href="https://linkedin.com/in/ansari-arham-7645a7289/
-
+<p align="center"><a href="https://github.com/ansariarham1">GitHub</a> · <a href="[https://linkedin.com/in/ansari-arham-7645a7289/
+](https://www.linkedin.com/in/ansari-arham-7645a7289/)
 ">LinkedIn</a> · <a href="mailto:ansariarham679@gmail.com">Email</a></p>
 
 <details open>
